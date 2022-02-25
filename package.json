@@ -1,0 +1,15 @@
+{
+  "name": "node-sales-taxes",
+  "version": "0.0.1",
+  "description": "Itemis coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "tape  tests/**/*.js",
+    "test": "tape  tests/**/*.js"
+  },
+ 
+  "keywords": [
+    "node"
+  ]
+ 
+}
